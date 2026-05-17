@@ -1,0 +1,5 @@
+    "targeted_tenants": [
+        "79e38c84-78f3-4242-b6ee-02132088174d", // DEMO
+        "fae37b84-2cda-4ac3-8ce6-5aeab21a3dd6", // TANAKOO
+        "4239c1d1-700a-4305-97ac-5a5dd589ee84"  // AMPERE
+    ],

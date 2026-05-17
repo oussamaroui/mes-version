@@ -1,0 +1,21 @@
+{
+    "latest_version": "1.0.5",
+    "platforms": {
+        "mobile": {
+            "update": true,
+            "update_url": "mobile_apk_url",
+            "changelog": "Test Updates"
+        },
+        "desktop": {
+            "update": true,
+            "update_url": "desktop_exe_url",
+            "changelog": "Test Updates"
+        }
+    },
+    "targeted_tenants": [
+        "79e38c84-78f3-4242-b6ee-02132088174d",
+        "4239c1d1-700a-4305-97ac-5a5dd589ee84"
+    ],
+    "target_all": true,
+    "is_required": true
+}
