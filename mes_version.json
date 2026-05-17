@@ -8,7 +8,7 @@
         },
         "desktop": {
             "update": true,
-            "update_url": "desktop_exe_url",
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/EXE-V1.0.4/MES_Setup.exe",
             "changelog": "Test Updates"
         }
     },
