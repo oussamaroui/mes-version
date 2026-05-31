@@ -1,15 +1,15 @@
 {
-    "latest_version": "1.0.5",
+    "latest_version": "1.0.7",
     "platforms": {
         "mobile": {
             "update": true,
-            "update_url": "mobile_apk_url",
-            "changelog": "Test Updates"
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.7/MES_Mobile.apk",
+            "changelog": "Migration de société."
         },
         "desktop": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/EXE-V1.0.4/MES_Setup.exe",
-            "changelog": "Test Updates"
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.7/MES_Setup.exe",
+            "changelog": "Migration de société."
         }
     },
     "targeted_tenants": [
