@@ -8,7 +8,7 @@
         },
         "desktop": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.9/MES_Setup.exe",
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.9/MES.C._Setup.exe",
             "changelog": "Ajout des étiquettes."
         }
     },
