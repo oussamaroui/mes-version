@@ -3,7 +3,7 @@
     "platforms": {
         "mobile": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.9/MES_Mobile.apk.apk",
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.9/MES_Mobile.apk",
             "changelog": "Ajout des étiquettes."
         },
         "desktop": {
