@@ -1,15 +1,15 @@
 {
-    "latest_version": "1.0.10",
+    "latest_version": "1.0.11",
     "platforms": {
         "mobile": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.10/MES_Mobile.apk",
-            "changelog": "Amelioration de la performance et correction de bugs mineurs."
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.11/MES_Mobile-V1.0.11.apk",
+            "changelog": "Amelioration de la performance."
         },
         "desktop": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.10/MES_Setup.exe",
-            "changelog": "Amelioration de la performance et correction de bugs mineurs."
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.11/MES_Setup-V1.0.11.exe",
+            "changelog": "Amelioration de la performance."
         }
     },
     "targeted_tenants": [
