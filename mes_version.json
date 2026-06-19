@@ -1,15 +1,15 @@
 {
-    "latest_version": "1.0.18",
+    "latest_version": "1.0.19",
     "platforms": {
         "mobile": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.18/MES_Mobile.apk",
-            "changelog": "Optimisation des performances."
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.19/MES_Mobile.apk",
+            "changelog": "Ajout de la numérotation des lots spécifiques et de la fonctionnalité d’annulation des tâches."
         },
         "desktop": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.18/MES_Setup.exe",
-            "changelog": "Optimisation des performances."
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.19/MES_Setup.exe",
+            "changelog": "Ajout de la numérotation des lots spécifiques et de la fonctionnalité d’annulation des tâches."
         }
     },
     "targeted_tenants": [
