@@ -7,8 +7,8 @@
             "changelog": "Maj."
         },
         "desktop": {
-            "update": false,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.22/MES_Setup.exe",
+            "update": true,
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.23/MES_Setup.exe",
             "changelog": "Maj."
         }
     },
