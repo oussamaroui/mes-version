@@ -1,15 +1,15 @@
 {
-    "latest_version": "1.0.23",
+    "latest_version": "1.0.24",
     "platforms": {
         "mobile": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.23/MES_Mobile.apk",
-            "changelog": "Maj."
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.24/MES_Mobile.apk",
+            "changelog": "Ajout d'un filtre Non commencée / Terminée dans la Consommation. \nAjout d'un indicateur de Réapprovisionnement dans les tâches de Consommation."
         },
         "desktop": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.23/MES_Setup.exe",
-            "changelog": "Maj."
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.24/MES_Setup.exe",
+            "changelog": "Ajout d'un filtre Non commencée / Terminée dans la Consommation. \nAjout d'un indicateur de Réapprovisionnement dans les tâches de Consommation."
         }
     },
     "targeted_tenants": [
