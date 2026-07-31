@@ -1,15 +1,15 @@
 {
-    "latest_version": "1.0.26",
+    "latest_version": "1.0.27",
     "platforms": {
         "mobile": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.26/MES_Mobile.apk",
-            "changelog": "Amélioration de la logique de pré-impression Galia."
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/v1.0.27/MES_Mobile.apk",
+            "changelog": "Correction de la perte de la configuration de l'imprimante."
         },
         "desktop": {
             "update": false,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.25/MES_Setup.exe",
-            "changelog": "Amélioration de la logique de pré-impression Galia."
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/v1.0.27/MES_Setup.exe",
+            "changelog": "Correction de la perte de la configuration de l'imprimante."
         }
     },
     "targeted_tenants": [
