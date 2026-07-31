@@ -7,7 +7,7 @@
             "changelog": "Correction de la perte de la configuration de l'imprimante."
         },
         "desktop": {
-            "update": false,
+            "update": true,
             "update_url": "https://github.com/oussamaroui/mes-version/releases/download/v1.0.27/MES_Setup.exe",
             "changelog": "Correction de la perte de la configuration de l'imprimante."
         }
