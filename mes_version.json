@@ -1,15 +1,15 @@
 {
-    "latest_version": "1.0.27",
+    "latest_version": "1.0.28",
     "platforms": {
         "mobile": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/v1.0.27/MES_Mobile.apk",
-            "changelog": "Correction de la perte de la configuration de l'imprimante."
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.28/MES_Mobile.apk",
+            "changelog": "Ajout du nom de l’opérateur dans la Réapprovisionnement semi-auto."
         },
         "desktop": {
             "update": false,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/v1.0.27/MES_Setup.exe",
-            "changelog": "Correction de la perte de la configuration de l'imprimante."
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.28/MES_Setup.exe",
+            "changelog": "Ajout du nom de l’opérateur dans la Réapprovisionnement semi-auto."
         }
     },
     "targeted_tenants": [
