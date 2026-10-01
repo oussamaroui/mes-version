@@ -1,16 +1,16 @@
 {
-    "latest_version": "1.0.32",
+    "latest_version": "1.0.33",
     "platforms": {
         "mobile": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.32/MES_Mobile.apk",
-            "changelog": "Amélioration de la logique des étiquettes de production."
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.33/MES_Mobile.apk",
+            "changelog": "Amélioration des performances."
         },
         "desktop": {
             "update": true,
-            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.32/MES_Setup.exe",
+            "update_url": "https://github.com/oussamaroui/mes-version/releases/download/V1.0.33/MES_Setup.exe",
             
-            "changelog": "Amélioration de la logique des étiquettes de production."
+            "changelog": "Amélioration des performances."
         }
     },
     "targeted_tenants": [
